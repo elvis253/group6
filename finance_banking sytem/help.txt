@@ -1,0 +1,22 @@
+WELCOME TO ELECTRONIC HELP
+USER MANUAL
+1,LOGIN
+1.1Make sure sure you have pesa bank acount ,
+1.1.2.Login with the user name u provided during registrtion
+1.1.3.Use password you provides during registration
+2.HOMEPAGE
+if your account remains open for more than thirthy minutes without any operation you will be logged ,this is for the security purposes
+2.1MYTRANSACTIONS
+2.1.1click on my transaction button to view all your transactions in details
+2.2 TRANSACTION
+2,2,1 To view your beneficiaries click mytransactions button on the sidebar ,
+2,2.2 Send money to a beneficiary to add him/her to your beneficiary list
+2.2.3 delete a beneficiary to remove him or her from your beneficiary list
+2.3 PESA MPESA
+2.3.1Click on pesa mpesa button to deposit amount from mpesa to pesa bank and withdraw money from pesa bank to mpesa
+2.3.2 Select debit to withdraw moneyfrom pesa bank to mpesa ,provide a valid pin and click submit.the amount will be sent to your Mpesa acount
+2.3.3 
+
+
+
+
