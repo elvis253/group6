@@ -67,6 +67,7 @@
     <script>
     function confirmReset() {
         return confirm('Do you really want to reset?')
+        //by elvisarakaogesa@gmail.com 
     }
     </script>
 
