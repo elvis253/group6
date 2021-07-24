@@ -8,6 +8,6 @@
         header("location:./session_expired.php");
     }
     else {
-        header("location:./home.php");        
+        header("location:./index.php");        
     }
 ?>
